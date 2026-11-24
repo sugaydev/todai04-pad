@@ -1,10 +1,10 @@
 /* 自動生成: tools/make-sw.mjs — 直接編集しない */
-const CACHE = 'todai04-duel-pad-a601b73aefc1'
+const CACHE = 'todai04-duel-pad-2de3d4e5d180'
 const ASSETS = [
   "./apple-touch-icon.png",
   "./assets/KodeMono-Bold-latin-T7NjCwOZ.woff2",
   "./assets/MPLUS1Code-Bold-subset-BRf7I25K.woff",
-  "./assets/index-Xc1XrzK0.js",
+  "./assets/index-x0YWCv-O.js",
   "./assets/style-BNXl9DPG.css",
   "./favicon.svg",
   "./icon-192.png",
